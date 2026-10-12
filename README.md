@@ -6,22 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 13 |
+| 51 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (6)
-- [brute force](#brute-force) (8)
-- [constructive algorithms](#constructive-algorithms) (10)
+- [brute force](#brute-force) (9)
+- [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (14)
-- [implementation](#implementation) (21)
-- [math](#math) (20)
-- [number theory](#number-theory) (13)
+- [greedy](#greedy) (16)
+- [implementation](#implementation) (22)
+- [math](#math) (24)
+- [number theory](#number-theory) (17)
 - [sortings](#sortings) (5)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (1)
@@ -43,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1498A | [GCD Sum](https://codeforces.com/contest/1498/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1498/A%20-%20GCD%20Sum/solution.cpp) |
@@ -57,6 +58,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1450A | [Avoid Trygub](https://codeforces.com/contest/1450/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1450/A%20-%20Avoid%20Trygub/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
@@ -92,8 +94,10 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 | 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
@@ -118,6 +122,7 @@
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
@@ -134,10 +139,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
@@ -159,10 +168,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
