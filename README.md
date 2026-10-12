@@ -6,22 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 13 |
+| 52 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (6)
+- [binary search](#binary-search) (7)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (22)
-- [math](#math) (24)
-- [number theory](#number-theory) (17)
+- [implementation](#implementation) (23)
+- [math](#math) (25)
+- [number theory](#number-theory) (18)
 - [sortings](#sortings) (5)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (1)
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
@@ -117,6 +118,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
@@ -141,6 +143,7 @@
 |---|---------|------------|----------|
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
@@ -169,6 +172,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
