@@ -6,22 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 31 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (5)
-- [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [brute force](#brute-force) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (6)
-- [math](#math) (8)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (18)
+- [math](#math) (9)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (4)
+- [strings](#strings) (11)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -42,6 +43,7 @@
 |---|---------|------------|----------|
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
@@ -51,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
+| 1450A | [Avoid Trygub](https://codeforces.com/contest/1450/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1450/A%20-%20Avoid%20Trygub/solution.cpp) |
 | 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
@@ -73,6 +76,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 | 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
@@ -85,17 +89,30 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 | 1692C | [Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1692/C%20-%20Where's%20the%20Bishop%3F/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
+| 1976A | [Verify Password](https://codeforces.com/contest/1976/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1976/A%20-%20Verify%20Password/solution.cpp) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
@@ -118,7 +135,25 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
+| 1450A | [Avoid Trygub](https://codeforces.com/contest/1450/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1450/A%20-%20Avoid%20Trygub/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
+| 1976A | [Verify Password](https://codeforces.com/contest/1976/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1976/A%20-%20Verify%20Password/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
+| 1976A | [Verify Password](https://codeforces.com/contest/1976/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1976/A%20-%20Verify%20Password/solution.cpp) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 
 ### two pointers
 
