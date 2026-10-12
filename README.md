@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 12 |
+| 32 | 12 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [binary search](#binary-search) (5)
 - [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (18)
-- [math](#math) (9)
-- [number theory](#number-theory) (3)
+- [math](#math) (10)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (4)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (1)
@@ -54,6 +54,7 @@
 |---|---------|------------|----------|
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1450A | [Avoid Trygub](https://codeforces.com/contest/1450/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1450/A%20-%20Avoid%20Trygub/solution.cpp) |
+| 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1715A | [Crossmarket](https://codeforces.com/contest/1715/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1715/A%20-%20Crossmarket/solution.cpp) |
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
@@ -114,6 +115,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
@@ -127,6 +129,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
+| 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 
