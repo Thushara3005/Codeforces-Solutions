@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 14 |
+| 59 | 14 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (17)
-- [implementation](#implementation) (24)
-- [math](#math) (28)
+- [implementation](#implementation) (25)
+- [math](#math) (29)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (5)
@@ -131,6 +131,7 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
@@ -154,6 +155,7 @@
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
+| 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Thushara3005/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
